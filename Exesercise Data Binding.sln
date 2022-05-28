@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exesercise Data Binding", "Exesercise Data Binding\Exesercise Data Binding.csproj", "{E055D3A4-315B-4CDC-838B-063585006A21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E055D3A4-315B-4CDC-838B-063585006A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E055D3A4-315B-4CDC-838B-063585006A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E055D3A4-315B-4CDC-838B-063585006A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E055D3A4-315B-4CDC-838B-063585006A21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {012F465A-1C57-447A-BA20-9EB0B1F25845}
+	EndGlobalSection
+EndGlobal
